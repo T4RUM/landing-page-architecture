@@ -1,2 +1,6 @@
-# Landing-Page-Architecture
-Este é o projeto de desenvolvimento do módulo base do curso de Tecnologia da Escola DNC.
+# Desafio 1 - Resolução
+
+---
+
+Link do site disponibilizado: 
+Link da planilha de registro de informações: https://shorturl.at/71ffE
