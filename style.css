@@ -1,0 +1,78 @@
+*{
+  /* Reset CSS margin 8px default */
+  font-family: inter;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#header{
+  background-color: #303030;
+  padding: 206px 354px 0 62px;
+  color: #FFFFFF; 
+}
+#tittle-header{
+  font-size: 60px;
+}
+#sub-tittle{
+  font-size: 20px;
+  padding: 20px 354px 149px 0 ;
+}
+#menu{
+  display: grid;
+  grid-auto-flow: column;
+  columns: auto;
+  justify-content: space-around;
+  padding: 45px 0 45px 0;
+  background-color: #F9F9F9;
+}
+.number{
+  font-size: 40px;
+  font-weight: bold;
+}
+#content-section{
+  display: flex;
+  gap: 64px;
+  justify-content: center; /*Alinha na horizontal quando não tem flex direction*/
+  align-items: center; /*Alinha na vertical quando não tem flex direction*/
+  padding: 82px 54px 92px 64px ;
+}
+#content-tittle{
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+#content-form{
+  background-color: #303030;
+  text-align: center;
+  padding-top: 87px;
+}
+#tittle-form{
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin-bottom: 48px;
+}
+input{
+  width: 508px;
+  height: 72px;
+  background-color:#EAECE5 ;
+  margin: 15px;
+  border: 0px;
+  border-radius: 5px;
+  padding-left: 10px;
+  font-size: 22px;
+  padding: 15px;
+}
+button{
+  background-color: #C07212;
+  color:#FFFFFF;
+  border: 0px;
+  border-radius: 5px;
+  width: 286px;
+  height: 74px;
+  margin-bottom: 50px;
+  font-weight: bolder;
+  cursor: pointer; 
+  font-size: 30px;
+}
